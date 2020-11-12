@@ -1,0 +1,5 @@
+*.o
+all
+*.exe
+doit_dsalgo_with_c
+*.swp
