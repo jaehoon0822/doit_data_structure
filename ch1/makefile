@@ -2,8 +2,8 @@
 CC = gcc
 FLAGS = -W -Wall -g
 TARGET = all
-FILES = q1_11.c
-OBJECTS = q1_11.o
+FILES = q1_18.c
+OBJECTS = q1_18.o
 
 $(TARGET): .c.o
 	$(CC) $(OBJECTS) -o $(TARGET)
